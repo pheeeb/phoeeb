@@ -1,0 +1,37 @@
+@charset "utf-8";
+body div {
+}
+body {
+}
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+}
+header  {
+	background-color: #A8B2C0;
+	width: 250px;
+}
+nav  {
+	background-color: #BCBCBC;
+	color: #FFFEFE;
+	width: 180px;
+}
+main {
+	background-color: #F4F0A1;
+	border-radius: 10px;
+}
+
+
+.pics  {
+	background-color: #B9B7C3;
+}
+
+article {
+	background-color: #636590;
+	text-align: left;
+	color: #FFFFFF;
+	border-width: thin;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
